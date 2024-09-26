@@ -52,37 +52,7 @@ npm run build
 
 This command will create an optimized build of the website in the `build` directory.
 
-## Contributing
-
-If you would like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your feature or bug fix:
-
-```
-git checkout -b feature-name
-```
-
-2. Make your changes and test them locally.
-
-3. Commit your changes with a descriptive commit message:
-
-```
-git commit -m "Add new feature"
-```
-
-4. Push your changes to your forked repository:
-
-```
-git push origin feature-name
-```
-
-5. Open a pull request on the original repository and describe your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-- Special thanks to the contributors and maintainers of the dependencies used in this project.
